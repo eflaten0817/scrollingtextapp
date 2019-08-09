@@ -1,3 +1,3 @@
 # scrollingtextapp
-my first scrolling text, learning with the Android Developer Fundamentals course
-\nThe text is an article I wrote for schmopera.com
+My first scrolling text app, learning with the Android Developer Fundamentals course.
+  The text is an article I wrote for schmopera.com
